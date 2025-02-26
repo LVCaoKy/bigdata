@@ -1,8 +1,7 @@
-# Building BigData Systems to anlyze vietanmese sentiment with their comment
+# Building BigData Systems to anlyze vietanmese real estate Price
 Tools will be used <br>
 -PostgreSQL(SQl Server local)
 -Kafka (streaming data realtime) <br>
 -Spark(ETL) <br>
--Pytorch(DeepLearing) <br>
 languages : python <br>
 
