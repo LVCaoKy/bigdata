@@ -1,4 +1,4 @@
-# Building BigData Systems to anlyze vietanmese real estate Price
+# Building BigData Systems to anlyze vietnamese real estate Price
 Tools will be used <br>
 -PostgreSQL(SQl Server local)
 -Kafka (streaming data realtime) <br>
