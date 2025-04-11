@@ -1,7 +1,6 @@
-# Building BigData Systems to anlyze vietnamese real estate Price
-Tools will be used <br>
+# Building BigData Systems to predict weather on one location
 -PostgreSQL(SQl Server local)
 -Kafka (streaming data realtime) <br>
 -Spark(ETL) <br>
 languages : python <br>
-
+Tools: Docker Desktop
